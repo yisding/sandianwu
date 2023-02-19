@@ -1,5 +1,7 @@
 # Shalosh.Chamesh (Shalosh dot Chamesh)
 
+* [Morning](./morning.md)
+
 ## Inspiration
 
 Writing has always been one of my achilles heels. That might be a surprise for people who know me, since I enjoy talking, maybe to excess, and even in work environments it's not uncommon for me to write more emails or slack messages than the rest of the team of 10 combined.
