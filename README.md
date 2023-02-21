@@ -2,6 +2,7 @@
 
 * [Morning](./morning.md)
 * [Human Nature](./humannature.md)
+* [Jimmy Carter](./carter.md)
 
 ## Inspiration
 
