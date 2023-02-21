@@ -1,6 +1,8 @@
 # Shalosh.Chamesh (Shalosh dot Chamesh)
 
 * [Morning](./morning.md)
+* [Purpose (Work in Progress)](./purpose.md)
+* [Human Nature](./humannature.md)
 
 ## Inspiration
 
