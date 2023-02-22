@@ -1,10 +1,10 @@
+# Food
+
 ```
 You got your good, y'know, and your bad
 You got your food, and your liquor
 -- Lupe Fiasco
 ```
-
-# Food
 
 I once met a seatmate on an airplane who told me, very calmly, that she would always eat the same thing for lunch depending on the day of the week. So every Monday she had a chicken sandwich, and Tuesday it was a salad, and so on. I was astounded, although not as astounded as when I later found out, ironically on AA's in flight magazine, that a large number of British workers would get exactly the same sandwich for lunch, say tuna and egg, every weekday, and often even on the weekends.
 
