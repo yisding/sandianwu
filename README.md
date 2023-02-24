@@ -4,6 +4,7 @@
 * [Human Nature](./humannature.md)
 * [Jimmy Carter](./carter.md)
 * [Food](./food.md)
+* [Dear Helen](./dearhelen.md)
 
 ## Inspiration
 
