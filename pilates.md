@@ -8,7 +8,7 @@ But alas, they could not foresee
 Now soreness they feel constantly, indeed.
 ```
 
-Shalosh, the perpetual optimist of our duo, suggested this improvement:
+Shalosh, the perpetual optimist of our duo, suggested this "improvement":
 
 ```
 A person with a painful back
