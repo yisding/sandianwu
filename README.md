@@ -5,6 +5,7 @@
 * [Jimmy Carter](./carter.md)
 * [Food](./food.md)
 * [Dear Helen](./dearhelen.md)
+* [Pilates](./pilates.md)
 
 ## Inspiration
 
