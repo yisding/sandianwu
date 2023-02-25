@@ -41,4 +41,4 @@ Spread his teachings far and wide
 If I met him, I’d sue his hide
 ```
 
-Copyright Chamesh 2023-02-24
+Copyright Chamesh and Ding 2023-02-24
