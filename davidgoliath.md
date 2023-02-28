@@ -1,5 +1,7 @@
 # David v. Goliath
 
+![Viet Cong teen sitting on tank](./yi_Viet_Cong_teen_raising_vietnamese_flag_on_captured_M1_Abrams_6fb49b4c-19b0-472b-acb5-75724909762a.png)
+
 **Introduction:**
 
 Someone reminded me today of a question that always interested me: how do those with fewer resources defeat those with more resources? This question has puzzled many historians, strategists, and business leaders alike. We often hear about underdogs beating the odds and achieving victory, but what are the underlying factors that contribute to this success? In this paper, we will explore four possible explanations for how those with fewer resources can come out on top: victory goes to those who care more, size often makes it slow to adapt, lack of resources often leads to more resourcefulness, and more resources lead to a loss in appetite.
