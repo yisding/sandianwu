@@ -6,6 +6,7 @@
 * [Food](./food.md)
 * [Dear Helen](./dearhelen.md)
 * [Pilates](./pilates.md)
+* [David v. Goliath](davidgoliath.md)
 
 ## Inspiration
 
