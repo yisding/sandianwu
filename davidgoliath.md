@@ -23,3 +23,5 @@ Finally, having more resources may actually work against an individual or organi
 **Conclusion:**
 
 In conclusion, there are many factors that can contribute to the success of those with fewer resources over those with more. Passion, adaptability, resourcefulness, and drive are all qualities that can help individuals and organizations achieve their goals. By understanding these factors, we can gain insights into how to overcome challenges and achieve success, even when facing seemingly insurmountable odds.
+
+Copyright Chamesh and Ding 2023-02-27
