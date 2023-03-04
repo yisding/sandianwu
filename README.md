@@ -7,6 +7,7 @@
 * [Dear Helen](./dearhelen.md)
 * [Pilates](./pilates.md)
 * [David v. Goliath](davidgoliath.md)
+* [Good Folk](goodfolk.md)
 
 ## Inspiration
 
