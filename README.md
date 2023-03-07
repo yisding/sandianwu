@@ -8,6 +8,7 @@
 * [Pilates](./pilates.md)
 * [David v. Goliath](davidgoliath.md)
 * [Good Folk](goodfolk.md)
+* [Serving People](servingpeople.md)
 
 ## Inspiration
 
