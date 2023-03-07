@@ -6,9 +6,10 @@
 * [Food](./food.md)
 * [Dear Helen](./dearhelen.md)
 * [Pilates](./pilates.md)
-* [David v. Goliath](davidgoliath.md)
-* [Good Folk](goodfolk.md)
-* [Serving People](servingpeople.md)
+* [David v. Goliath](./davidgoliath.md)
+* [Good Folk](./goodfolk.md)
+* [Serving People](./servingpeople.md)
+* [Human Nature (Act 2)](./humannature2.md)
 
 ## Inspiration
 

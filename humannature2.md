@@ -5,7 +5,7 @@
 
 St. Francis: Good day to you both. I couldn't help but overhear your conversation. What is the topic of your discussion?
 
-Mencius: We were discussing our beliefs about human nature. I believe that humans are inherently good, while Martin Luther here believes the opposite.
+Mencius: We were discussing our beliefs about human nature. I believe that humans are inherently good, while Martin here believes the opposite.
 
 Martin Luther: Indeed, I believe that human beings are inherently sinful and corrupt, and only through faith in God can we hope to overcome our fallen nature.
 
@@ -39,4 +39,8 @@ St. Francis: And I believe that we must each strive towards the path of righteou
 
 Martin Luther: And I believe that we must each accept our own fallen nature, and turn to God for salvation and redemption.
 
-Mencius: We seem to be talking in circles. Barkeep another beer?
+St. Francis: It seems that we each have our own beliefs and perspectives, but perhaps what is most important is that we all strive towards goodness, humility, and compassion in our actions towards others. After all, regardless of our beliefs, we are all fellow human beings on this earth, and we must work together to create a better world for ourselves and future generations.
+
+*(ed. It seems the second time Shalosh gave me a more satisfying ending. Still, there's something missing.)*
+
+Copyright Chamesh and Ding 2023-03-06
