@@ -10,6 +10,7 @@
 * [Good Folk](./goodfolk.md)
 * [Serving People](./servingpeople.md)
 * [Human Nature (Act 2)](./humannature2.md)
+* [San Francisco](./sanfrancisco.md)
 
 ## Inspiration
 
