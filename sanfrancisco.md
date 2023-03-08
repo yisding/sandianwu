@@ -90,6 +90,7 @@ Epilogue:
 
 St. Francis and the Devil depart from San Francisco, leaving behind a city that is both richer and poorer for their visit. The homeless people are still on the streets, the tech entrepreneurs are still making money, and the Mayor is still trying to balance it all. But something has shifted, a small seed of hope and possibility planted in the midst of chaos and despair. And perhaps, just perhaps, that seed will grow into a world where love and compassion reign, and all God's children are cherished and cared for.
 
-*(ed: The devil has certianly lead to a better constructed play. Perhaps a strong antagonist is what's needed to shake Shalosh's need to make everyone agreeable. Still, it's missing some soul.)*
+*(ed: The devil has certainly lead to a better constructed play. Perhaps a strong antagonist is what's needed to shake Shalosh's need to make everyone agreeable. Still, it's missing some soul.)*
+*(ed2: A careful reading might show that the devil might have certain political leanings. Is this evidence of Shalosh's woke bias, or is it an accurate synthesis of the state of politics in this country?)*
 
 Copyright Chamesh and Ding 2023-03-06
