@@ -27,7 +27,7 @@ Wants one in self defense.
 But just in case --- we better get AI!
 Who's next?
 
-Roku wants its GPT
+Roku wants its GPT,
 But its money's at SVB.
 We'll try to stay serene and high
 When it's in the hands of the FBI!
