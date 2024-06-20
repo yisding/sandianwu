@@ -12,6 +12,7 @@
 * [Human Nature (Act 2)](./humannature2.md)
 * [San Francisco](./sanfrancisco.md)
 * [Who's Next](./whosnext.md)
+* [A Good Tech Company](./agoodcompany.md)
 
 ## Inspiration
 
